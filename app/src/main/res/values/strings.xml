@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="title">GitHub User Profile</string>
+    <string name="title_detail">Detail Github User</string>
+    <string name="title_favorite">Detail Github User</string>
+    <string name="no_name">No Name</string>
+    <string name="searchbar_hint">Masukkan username</string>
+    <string name="username">Username Account</string>
+    <string name="login">Login Account</string>
+    <string name="followers">0 Followers</string>
+    <string name="following">0 Following</string>
+    <string name="following_text"> following</string>
+    <string name="followers_text"> followers</string>
+    <string name="favorite_activity">Favorite Activity</string>
+    <string name="logo_app">Logo App</string>
+    <string name="loading">Loading</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="content_tab_follow">no have data</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+</resources>
